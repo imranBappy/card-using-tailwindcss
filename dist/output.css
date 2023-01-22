@@ -658,7 +658,7 @@ video {
   @media (prefers-color-scheme: dark) {
     .channle-card:hover {
       --tw-bg-opacity: 1;
-      background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+      background-color: rgb(55 65 81 / var(--tw-bg-opacity));
     }
   }
 }

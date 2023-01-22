@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .channle-card {
-  @apply max-w-sm mx-auto p-8 rounded-xl bg-white shadow-md space-y-2 sm:flex sm:items-center sm:space-y-2 sm:p-4 sm:space-x-6 dark:bg-gray-800 sm:dark:hover:bg-gray-900;
+  @apply max-w-sm mx-auto p-8 rounded-xl bg-white shadow-md space-y-2 sm:flex sm:items-center sm:space-y-2 sm:p-4 sm:space-x-6 dark:bg-gray-800 sm:dark:hover:bg-gray-700;
 }
 
 .btn {
