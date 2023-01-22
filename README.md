@@ -1,6 +1,6 @@
 # Card Desing Using Tailwind Css
 
-## Live link : https://github.com/imranBappy/card-using-tailwindcss.git
+## Live link : https://helpful-lily-0ed0a3.netlify.app/
 
 ## How to run this project
 
